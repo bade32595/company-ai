@@ -28,3 +28,8 @@
 .content-premium{background:#f8fafb;color:#102B3F;border-bottom:3px solid #D6A75D}
 .content-minimal{background:#fff;color:#18313D;border:1px solid #e0e8eb}
 .content-bold{background:#17384B;color:#fff;border-bottom:3px solid #57C6B3}
+
+.thumb-editorial{background:#2E302E;color:#F7F3EC}.thumb-editorial i{background:#B36B4B}.thumb-editorial small{background:#B36B4B;opacity:.85}
+.content-editorial{background:#F7F3EC;color:#2E302E;border-bottom:3px solid #B36B4B}
+.thumb-tech{background:#0C2030;color:#F3F8FB}.thumb-tech i{background:#13A5A2}.thumb-tech small{background:#13A5A2;opacity:.8}
+.content-tech{background:#F3F8FB;color:#10283A;border-bottom:3px solid #13A5A2}
